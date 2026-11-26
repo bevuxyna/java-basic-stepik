@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-class Main {
+class Task_1_7_6 {
     public static void main(String[] args) {
         int rub, kop, discount;
 

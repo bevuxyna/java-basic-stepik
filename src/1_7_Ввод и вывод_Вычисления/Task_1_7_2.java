@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-class Main {
+class Task_1_7_2 {
     public static void main(String[] args) {
         String name;
         int age;

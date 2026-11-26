@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-class Main {
+class Task_1_7_1 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int first, second;

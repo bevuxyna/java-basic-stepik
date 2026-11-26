@@ -15,7 +15,7 @@
 
 import java.util.Scanner;
 
-class Main {
+class Task_2_1_7 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in); // 15 20.5	307.50
 

@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-class Main {
+class Task_2_1_5 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in); // 1 1 1 1 1 2
 
